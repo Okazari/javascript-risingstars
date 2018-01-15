@@ -28,7 +28,7 @@ const team = [
       'Node.js, 美味しいご飯, 酒, 料理, バスケ, ヨガ, エレクトロニカ, DJ, 園芸, DIY, プチアウトドア, 六甲山',
     role: 'translation',
     language: 'ja',
-    years: [2016]
+    years: [2016, 2017]
   },
   {
     name: '王仕军 (Wang Shijun)',
